@@ -6241,19 +6241,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/nam-thanh-cho-trang-ve.html",
-    "imageSrc": "",
-    "img": "https://story.vnxyz.me/comics/10/26/10262551e9714ffb53bba9c9712df06e.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": true,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1630674803262,
-    "title": "Nam Thành Chờ Trăng Về",
-    "type": "Romance,Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/ta-phai-lam-hoang-hau.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/comics/05/93/05933c7527e5fe0b86635615fd348e8a.jpg",
@@ -6550,19 +6537,6 @@
     "time": 1630675132967,
     "title": "Lão Tổ Ngận Mang Chi Kỳ Lân Si",
     "type": "Xuyên không,Đam Mỹ"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/nghe-thay-am-thanh-ngan-ha-roi.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/comics/ea/d6/ead6f6f40b9410f13335251c16775671.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": true,
-    "isRead": false,
-    "lastChapter": "Chapter 3",
-    "time": 1634708822299,
-    "title": "Nghe Thấy Âm Thanh Ngân Hà Rơi",
-    "type": "Romance,Shoujo,Manhua"
   },
   {
     "des": "",
@@ -8279,19 +8253,6 @@
     "time": 1630921077847,
     "title": "Ta Trở Về Từ Chư Thiên Vạn Giới",
     "type": "Action,Manhua,Adventure"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/phai-long-oan-gia.html",
-    "imageSrc": "",
-    "img": "https://story.vnxyz.me/comics/b5/20/b520b39ce16a76fe395d2114585e2581.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": true,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1631197310251,
-    "title": "Phải Lòng Oan Gia",
-    "type": "Romance,Manhwa"
   },
   {
     "des": "",
@@ -14480,19 +14441,6 @@
     "time": 1634992615593,
     "title": "Hoàng Hậu Tái Hôn",
     "type": "Drama,Fantasy,Romance,Josei,Manhwa"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/bat-dau-tu-lam-ngon-tay-vang.html",
-    "imageSrc": "",
-    "img": "https://story.vnxyz.me/comics/eb/14/eb142c5c65494ebf6fd1614219331d44.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": true,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1634992615595,
-    "title": "Bắt Đầu Từ Làm Ngón Tay Vàng",
-    "type": "Action,Mystery,Xuyên Không,Manhua,Adventure"
   },
   {
     "des": "",
