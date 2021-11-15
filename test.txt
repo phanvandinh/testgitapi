@@ -9127,19 +9127,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/cong-luoc-truong-thanh-cua-vuong-phi.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/comics/9e/4b/9e4b8cd0f9f7e67ab1be85d7bd0b6555.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": true,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1631611693525,
-    "title": "Công Lược Trưởng Thành Của Vương Phi",
-    "type": "Cổ Đại,Drama,Xuyên Không,Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/thanh-thoi-thu-the-chung-chung-dien-sinh-sinh-te.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/96/92/9692a7022bb08ec6e57be0819d35c88c.webp",
