@@ -3173,19 +3173,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/dam-house-end-.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/76/17/7617802d4b747386c06d804950b02d85.jpeg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Mood",
-    "time": 1630639952386,
-    "title": "Đam house (end)",
-    "type": "AnimeGay"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/kim-chu-.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/96/38/9638632f81b43ec9b7ec8594c4f05b1d.jpeg",
@@ -16080,7 +16067,6 @@
     "title": "Thế Giới Pháp Thuật 2",
     "type": "Mystery,Shounen,Drama,Fantasy,Adventure,Action,Comedy,Martial Arts"
   },
-  
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/sos-toi-da-yeu-mot-con-sau-buom.html",
