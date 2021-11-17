@@ -2068,5 +2068,225 @@
     "time": 1636235786977,
     "title": "Người Đưa Thư Vô Hạn",
     "type": "Thể loại: Action, Truyện Màu, Adventure, Manhua"
+  },
+  {
+    "des": "Truyện tranh Ta Là Đấng Chí Tôn được cập nhật sớm nhất và đầy đủ tại GacTruyenTranh. Bạn đọc đừng quên bình luận và chia sẻ, ủng hộ GacTruyenTranh ra các chương mới nhất của truyện Ta Là Đấng Chí Tôn.",
+    "href": "/truyen/ta-la-dang-chi-ton",
+    "img": "https://gactruyentranh.com/client/assets/images/ta-la-dang-chi-ton.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637158068396,
+    "title": "Ta Là Đấng Chí Tôn",
+    "type": "Thể loại: Action, Truyện Màu, Manhua, Mystery"
+  },
+  {
+    "des": "Hung thú, còn được gọi là Kỳ Lân Thánh Vật, hoành hành một vùng núi Côn Lôn, săn giết mọi người. May mà có nhất đại kỳ nhân Côn Lôn Thánh Vương tiêu diệt, sáng lập phái Côn Lôn. Trăm năm sau, Hung Thú quật khởi, Côn Lôn Phái diệt vong. Đoàn Tâm, người đệ tử cuối cùng của phái Côn Lôn trở về, thực hiện sứ mệnh của mình.",
+    "href": "/truyen/hung-thu-vo-gia",
+    "img": "https://gactruyentranh.com/client/assets/images/hung-thu-vo-gia.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637158068396,
+    "title": "Hung Thú Võ Giả",
+    "type": "Thể loại: Truyện Màu, Manhua, Martial Arts, Cổ Đại"
+  },
+  {
+    "des": "“ Nữ Vương của huyết tộc đã thức tỉnh sau hàng ngàn năm say giấc. Sự việc đầu tiên sau khi cô tỉnh dậy thế mà lại là tranh giành theo làn sóng trong giới giải trí ? Con đường “ ra mắt “ nhiều chông gai và trắc trở, lại còn phải thu phục ảnh đế kép, ông trùm tài phiệt, lão đại của nền thể thao điện tử , truyền kỳ của giới y học, và “ em trai tiểu thịt tươi “ làm nhà nghiên cứu khoa học . Đợi chút, còn có 1 tên trùm bá vương có quan hệ không tốt với cô ở khiếp trước nữa, ai ya, kiếp này làm sao mới có thể cắt đứt được mối nghiệt duyên này đây.......",
+    "href": "/truyen/toi-tro-thanh-to-tong-cua-5-vi-dai-lao",
+    "img": "https://gactruyentranh.com/client/assets/images/toi-tro-thanh-to-tong-cua-5-vi-dai-lao.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637158068401,
+    "title": "Tôi trở thành tổ tông của 5 vị đại lão",
+    "type": "Thể loại: Truyện Màu, Manhua, Xuyên Không, Cổ Đại"
+  },
+  {
+    "des": "Nữ học bá thiên tài Dư Sở xuyên không trở thành nữ phụ độc ác Chung Nguyễn, để sống sót phải làm nhiệm vụ cử nữ phụ độc ác đối với nam chính, nhưng ai ngờ được lại bị nam chính hiểu làm là thích hắn, cuối cùng lại trở thành người không thể với tới được của hắn. Hơn nữa nữ chính sau khi xuyên không nhận được sự trợ giúp của hệ thống, mọi người đều kinh ngạc khi một đứa ngu dốt quê mùa lại tự dưng biến thành một người đầy một bụng thơ ca. Dần dần nữ chính rửa sạch được cái mác bình hoa phế thải, đứng đầu quốc tử giám, nổi danh khắp kinh thành, cũng gây sự chú ý của rất nhiều thế lực ( Mỹ nam). Bộ truyện tranh hài lãng mạn giữa thiếu nữ độc ác (giả) và hoàng tử báo thù (thật) sắp lên sóng.",
+    "href": "/truyen/nhat-ki-hoc-tap-cua-hac-lien-hoa",
+    "img": "https://gactruyentranh.com/client/assets/images/nhat-ki-hoc-tap-cua-hac-lien-hoa.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637158068401,
+    "title": "Nhật kí học tập của Hắc Liên Hoa",
+    "type": "Thể loại: Truyện Màu, Manhua, Xuyên Không, Cổ Đại"
+  },
+  {
+    "des": "Sinh viên đại học năm nhất Chu tiểu an tình cờ có được một chiếc nhẫn không rõ lai lịch, trong miệng hắn bất ngờ chui ra một cái huyết ma nhân, một bí mật kinh thiên về nhân loại lập tức được vạch trần...",
+    "href": "/truyen/huyet-ma-nhan",
+    "img": "https://gactruyentranh.com/client/assets/images/huyet-ma-nhan.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637158068403,
+    "title": "Huyết Ma Nhân",
+    "type": "Thể loại: Action, Truyện Màu, Manhua, Comedy, Supernatural"
+  },
+  {
+    "des": "Truyện tranh Ngạo Thị Thiên Địa được cập nhật nhanh và đầy đủ nhất tại Tranh Truyện. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ Tranh Truyện ra các chương mới nhất của truyện Ngạo Thị Thiên Địa.",
+    "href": "/truyen/ngao-thi-thien-dia",
+    "img": "https://gactruyentranh.com/client/assets/images/ngao-thi-thien-dia.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637158068404,
+    "title": "Ngạo Thị Thiên Địa",
+    "type": "Thể loại: Truyện Màu, Manhua, Xuyên Không, Mystery"
+  },
+  {
+    "des": "Vương gia bá đạo và thê tử thông minh, lần đầu gặp mặt, cô ta trị thương cho huynh ấy, lấy chi phí trị thương khoảng vài tram lượng. Lần gặp sau, huynh ấy lấy nàng làm thê tử, nói rằng phải bám lấy nhau cả đời. Vương gia, tiểu thế tử vẫn đang ở bên cạnh nhìn đấy… Đúng lúc, bổn vương cũng muốn giáo huấn cho hắn ta thế nào là cưng chiều thê tử!",
+    "href": "/truyen/xung-hi-vuong-phi",
+    "img": "https://gactruyentranh.com/client/assets/images/xung-hi-vuong-phi.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637158068406,
+    "title": "Xung Hỉ Vương Phi",
+    "type": "Thể loại: Truyện Màu, Manhua, Romance, Ngôn Tình, Shoujo, Cổ Đại"
+  },
+  {
+    "des": "Tạ Vũ bởi vì hảo hữu tạ thế một mực phong bế mình, đắm chìm trong thế giới trò chơi bên trong, thẳng đến ngày nào đó một món tên là cuối cùng giai trò chơi game điện thoại xuất hiện ở trong điện thoại di động của hắn, khi hắn biết được trò chơi có thể thực hiện hết thảy nguyện vọng, thậm chí liền người chết đều có thể phục sinh, lấy một trăm triệu điểm tích lũy làm mục tiêu, tử trạch hai lần nhân sinh liền triển khai như vậy! Xem thêm",
+    "href": "/truyen/mot-tram-trieu-diem",
+    "img": "https://gactruyentranh.com/client/assets/images/mot-tram-trieu-diem.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637158068406,
+    "title": "Một Trăm Triệu Điểm",
+    "type": "Thể loại: Action, Truyện Màu, Adventure, Manhua"
+  },
+  {
+    "des": "Truyện tranh Thôn Phệ Một Thế Giới Tu Tiên được cập nhật nhanh và đầy đủ nhất tại Tranh Truyện. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ Tranh Truyện ra các chương mới nhất của truyện Thôn Phệ Một Thế Giới Tu Tiên.",
+    "href": "/truyen/thon-phe-mot-the-gioi-tu-tien",
+    "img": "https://gactruyentranh.com/client/assets/images/thon-phe-mot-the-gioi-tu-tien.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637158068407,
+    "title": "Thôn Phệ Một Thế Giới Tu Tiên",
+    "type": "Thể loại: Action, Truyện Màu, Adventure, Manhua, Mystery, Supernatural"
+  },
+  {
+    "des": "Ở cái thế giới này, có Hồ Tiên, Hà Thần, Thủy Quái, Đại Yêu, cũng có người tu hành cầu trường sinh. Chúng tu hành giả, Khai pháp nhãn, có thể xem yêu ma quỷ quái. Luyện một thanh phi kiếm, có thể ngàn dặm giết địch. Thiên Lý Nhãn, Thuận Phong Nhĩ, càng có thể dò xét tứ phương.",
+    "href": "/truyen/phi-kiem-van-dao",
+    "img": "https://gactruyentranh.com/client/assets/images/phi-kiem-van-dao.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637158068408,
+    "title": "Phi Kiếm Vấn Đạo",
+    "type": "Thể loại: Shounen, Action, Truyện Màu, Adventure, Manhua, Mystery"
+  },
+  {
+    "des": "Cha mẹ mất tích tần lập đạt được lão nhân thần bí bí truyền công pháp, 10 năm nhẫn nhục tu luyện, khi thành công nhân sinh đỉnh phong",
+    "href": "/truyen/de-nhat-nguoi-o-re",
+    "img": "https://gactruyentranh.com/client/assets/images/de-nhat-nguoi-o-re.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637158068409,
+    "title": "Đệ Nhất Người Ở Rể",
+    "type": "Thể loại: Fantasy, Action, Truyện Màu, Manhua"
+  },
+  {
+    "des": "Ngô Kỳ, một sát thủ truyền kỳ lỡ tay bị giết, người sát hại mình là ai cũng không biết. Hệ thống Sát Ý bất ngờ xuất hiện trước mặt hắn, chỉ cần hắn hoàn thành nhiệm vụ là giúp hắn hồi sinh, và cho hắn biết chân tướng về cái chết của hắn. Ngô Kỳ được Hệ thống Sát Ý giúp đã xuyên việt thời gian gian không gian, ngăn cản kẻ địch bị sát ý chi phối, cho dù bản thân là tội ác đầy mình, cũng phải cứu thế giới này.",
+    "href": "/truyen/van-ac-bat-xa",
+    "img": "https://gactruyentranh.com/client/assets/images/van-ac-bat-xa.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637160702309,
+    "title": "Vạn Ác Bất Xá",
+    "type": "Thể loại: Truyện Màu, Manhua, Martial Arts, Trinh Thám, Chuyển Sinh"
+  },
+  {
+    "des": "Vũ trụ lấy võ làm trọng, là con trai của Thần Vương, nam chính sở hữu sức mạnh mạnh mẽ, nhưng anh ta đã được gia đình sắp đặt xuống Trái Đất kiếm 1 tỷ. Cứ ngỡ là dễ như trở bàn tay, ai ngờ đâu gặp phải rắc rối khắp nơi, thế nào lại trở thành tên nhân viên bảo vệ quèn, chỉ coi trọng lợi ích. Có tiền là nam tử hán, không tiền là hán tử nan. Nam chính nửa chính nửa tà, quát tháo thế giới loài người!",
+    "href": "/truyen/chu-than-rut-lui",
+    "img": "https://gactruyentranh.com/client/assets/images/chu-than-rut-lui.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637160702309,
+    "title": "Chư Thần Rút Lui",
+    "type": "Thể loại: Action, Truyện Màu, Manhua, Harem"
+  },
+  {
+    "des": "Phàm là kẻ lên 6 tuổi một khi đã thức tỉnh Vạn Vật Hoạ Nhãn đều không thể xác định cự li xa gần, cao thấp nên kẻ thì chết tức tưởi dưới vó ngựa, kẻ thì ngã từ núi cao xuống mà chết. Nhưng trời sinh Tư Mã Vũ Huy thiên phú hội hoạ, thức tỉnh kỳ nhãn sống qua được 6 tuổi. Một người phi phàm như vậy sẽ đi đến đâu trong vũng nước đục võ lâm, những mảng đen trắng trong mắt hắn nhảy múa tựa như những chiêu thức lạ kỳ, thiên hạ này dưới con mắt của hắn hiện lên như thế nào?",
+    "href": "/truyen/hoa-long-vuong",
+    "img": "https://gactruyentranh.com/client/assets/images/hoa-long-vuong.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637160702311,
+    "title": "Họa Long Vương",
+    "type": "Thể loại: Action, Truyện Màu, Manhua"
+  },
+  {
+    "des": "Nam chính tên là Tần lúc là một sinh viên, ngoài ý muốn đã xuyên qua dị giới nhập vào Giáo Chủ Ma Giáo, cái này sao lại là Ma Giáo, tất cả kinh tế đều phải nhờ Giáo Chủ đi lừa gạt? Tiền thân cũ của Giáo Chủ Ma Giáo nợ tình đầy rẫy, Tần Húc suy nghĩ giáo chủ này mình \"không làm được không?\"",
+    "href": "/truyen/di-gioi-sieu-cap-o-re",
+    "img": "https://gactruyentranh.com/client/assets/images/di-gioi-sieu-cap-o-re.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637160702313,
+    "title": "Dị Giới Siêu Cấp Ở Rể",
+    "type": "Thể loại: Drama, Historical, Action, Truyện Màu, Manhua, Romance, Harem, Slice Of Life"
+  },
+  {
+    "des": "Truyện tranh Ta Không Phải Nhân Vật Phản Diện được cập nhật nhanh và đầy đủ nhất tại Tranh Truyện. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ Tranh Truyện ra các chương mới nhất của truyện Ta Không Phải Nhân Vật Phản Diện.",
+    "href": "/truyen/ta-khong-phai-nhan-vat-phan-dien",
+    "img": "https://gactruyentranh.com/client/assets/images/ta-khong-phai-nhan-vat-phan-dien.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637160702317,
+    "title": "Ta Không Phải Nhân Vật Phản Diện",
+    "type": "Thể loại: Action, Truyện Màu, Adventure, Manhua, Comedy, Chuyển Sinh"
+  },
+  {
+    "des": "Ba đệ tử nổi bật của Đạo Thánh được gọi là Tam Đại Đạo Soái, gồm có: Hoành Đao, Danh Kiếm, Tiếu Tam Thiếu. Phần truyện Hoành Đao Đoạt Ái kể về thời thanh niên của Hoành Đao. Hoành Đao, đại sư huynh của cao nhân Đạo Thánh, bá ý và sát khí uy chấn giang hồ, có tinh thần gặp mạnh càng mạnh, không sợ bất cứ cường dịch nào. Sáng lập ra môn phái chính nghĩa duy nhất của võ lâm: Hoành Đao Môn, độc lập kháng lại tà phái.",
+    "href": "/truyen/hoanh-dao-doat-ai-dao-kiem-tieu",
+    "img": "https://gactruyentranh.com/client/assets/images/hoanh-dao-doat-ai-dao-kiem-tieu.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637160702318,
+    "title": "Hoành Đao Đoạt Ái - Đao Kiếm Tiếu",
+    "type": "Thể loại: Truyện Màu, Manhua, Martial Arts"
+  },
+  {
+    "des": "Cô giao dịch với một người đàn ông. Qua một đêm, cô gái nhà nghèo mà ai ai cũng khinh thường-Lục Nhiên Nhiên trở thành Tần thái thái mà ai ai cũng ngưỡng mộ. Trước mặt mọi người, anh là một vị chủ tịch lạnh lùng, cao cao tại thượng! Nhưng anh còn có một mặt khác đó là một kẻ sủng vợ đến mức điên cuồng! \"Tần Thâm, nếu anh yêu tôi thì đừng coi tôi là chim hoàng yến.\" - \"Vậy làm nữ hoàng thì sao? \"",
+    "href": "/truyen/bang-son-tong-tai-sung-the-den-vo-dao",
+    "img": "https://gactruyentranh.com/client/assets/images/bang-son-tong-tai-sung-the-den-vo-dao.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637160702320,
+    "title": "Băng Sơn Tổng Tài Sủng Thê Đến Vô Đạo",
+    "type": "Thể loại: Truyện Màu, Manhua, Ngôn Tình"
+  },
+  {
+    "des": "Main đi lấy lại danh dự cho cha",
+    "href": "/truyen/mat-the-quat-khoi",
+    "img": "https://gactruyentranh.com/client/assets/images/mat-the-quat-khoi.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637160702320,
+    "title": "Mạt thế quật khởi",
+    "type": "Thể loại: Action, Truyện Màu, Manhua, Comedy"
+  },
+  {
+    "des": "Truyện tranh Nhặt Được Hoa Khôi Về Làm Vợ được cập nhật sớm nhất và đầy đủ tại GacTruyenTranh. Bạn đọc đừng quên bình luận và chia sẻ, ủng hộ GacTruyenTranh ra các chương mới nhất của truyện Nhặt Được Hoa Khôi Về Làm Vợ.",
+    "href": "/truyen/nhat-duoc-hoa-khoi-ve-lam-vo",
+    "img": "https://gactruyentranh.com/client/assets/images/nhat-duoc-hoa-khoi-ve-lam-vo.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637160702321,
+    "title": "Nhặt Được Hoa Khôi Về Làm Vợ",
+    "type": "Thể loại: Action, Truyện Màu, Manhua, School Life, Comic"
+  },
+  {
+    "des": "Nhân vật chính A Khờ xuất thân từ một tên trộm, nhưng tính tình hiền lành, trong một lần ăn trộm bị một Luyện Kim Thuật Sĩ tại vì muốn sáng tạo một thần khí mà bị bắt đi. Vận mệnh của A Khờ từ đó thay đổi, vận mệnh đưa đẩy A Khờ cứu được đại lục đệ nhất sát thủ “Minh Vương”. Minh Vương vì muốn báo thù, cưỡng ép A Khờ tới một tiểu trấn hẻo lánh, và truyền thụ lại hết tất cả võ công bản thân đã học được cho A Khờ. Sống với một sát thủ như vậy A Khờ sẽ biến thành một ác ma chứ?",
+    "href": "/truyen/thien-luong-tu-than",
+    "img": "https://gactruyentranh.com/client/assets/images/thien-luong-tu-than.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637160702322,
+    "title": "Thiện Lương Tử Thần",
+    "type": "Thể loại: Action, Truyện Màu, Manhua, Mystery, Adult"
+  },
+  {
+    "des": "Vòng đời của con người và trùng cổ có thật sự như nhau không?” Vào mùa hè, cô thiếu nữ, Miêu Tiểu Phạn vô tình gặp được chàng thiếu niên là trùng cổ – Á Mộc, hai người bất ngờ nảy sinh tâm ý tương thông….. Á Mộc mất đi ý thức, vì muốn cứu Á Mộc, Tiểu Phạn đã cùng với ba mẹ mình đi về cố hương của cổ thuật. Nơi này thật sự có phương pháp chữa khỏi cho Á Mộc sao?…. Diễn biến câu chuyện như thế nào, đọc rồi sẽ rõ!",
+    "href": "/truyen/sos-toi-da-yeu-mot-con-sau-buom-phan-2",
+    "img": "https://gactruyentranh.com/client/assets/images/sos-toi-da-yeu-mot-con-sau-buom-phan-2.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1637160702322,
+    "title": "SOS! Tôi Đã Yêu Một Con Sâu Bướm (Phần 2)",
+    "type": "Thể loại: Truyện Màu, Manhua, Romance, Comedy"
   }
 ]
