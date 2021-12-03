@@ -11078,5 +11078,465 @@
     "time": 1637585187474,
     "title": "Diệp Vấn Tiền Truyện",
     "type": "Thể loại: Action, Truyện Màu, Manhua, Martial Arts"
+  },
+  {
+    "des": "Tên khác: Tokyo Manji Revengers Tokyo Revengers Toukyou Revengers 東京卍リベンジャーズ Takemichi, thanh niên thất nghiệp còn trinh, được biết rằng người con gái đầu tiên và cũng là duy nhất cho đến bây giờ mà anh hẹn hò từ trung học đã chết. Sau một vụ tai nạn, anh ta thấy mình được quay về những ngày cấp hai. Anh ta thề sẽ thay đổi tương lai và giữ lấy người con gái ấy, để làm việc đó, anh ta quyết định sẽ vươn lên làm trùm băng đảng khét tiếng nhất ở vùng Kantou. Ủng hộ bọn mình tại FB: https://facebook.com/EiShunTeam/",
+    "href": "/truyen/kich-truong-cua-takemichi",
+    "img": "https://gactruyentranh.com/client/assets/images/kich-truong-cua-takemichi.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638504677891,
+    "title": "Kịch Trường Của Takemichi",
+    "type": "Thể loại: Drama, Shounen, Action, Romance, School Life"
+  },
+  {
+    "des": "Lây bối cảnh thời Chiến Quốc, năm 245 trước Công Nguyên. Truyện kể về một cậu bé từ thân phận người ở trở thành một vị dũng tướng. Đây là bộ truyện đã giành giải thưởng Tezuka Osamu Cultural lần thứ 17 vào năm 2013",
+    "href": "/truyen/kingdom-vuong-gia-thien-ha",
+    "img": "https://gactruyentranh.com/client/assets/images/kingdom-vuong-gia-thien-ha.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638504677896,
+    "title": "Kingdom - Vương Giả Thiên Hạ",
+    "type": "Thể loại: Drama, Historical, Action, Adventure, Seinen"
+  },
+  {
+    "des": "[Cập nhật thứ 4 và chủ nhật hàng tuần] Nữ hài nghịch công lược băng sơn tổng tài. Vườn trường ? Chức trường ? Tư muội ? Tôi đều có thể",
+    "href": "/truyen/het-nhu-han-quang-gap-nang-gat",
+    "img": "https://gactruyentranh.com/client/assets/images/het-nhu-han-quang-gap-nang-gat.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638504677896,
+    "title": "Hệt Như Hàn Quang Gặp Nắng Gắt",
+    "type": "Thể loại: Manhua, Romance, Ngôn Tình, Chuyển Sinh"
+  },
+  {
+    "des": "Đấu La Đại Lục là một trong những tác phẩm đặc sắc của Đường Gia Tam Thiếu. Tác phẩm thuộc thể loại truyện Huyễn Hiệp, mang đến cho độc giả một cái nhìn, một cảm nhận mới về thế giới hiệp khách huyền ảo. Câu chuyện với nhân vật chính, con một thợ rèn, một thợ rèn trở thành tửu quỷ, vì thê tử đã mất, sẵn sàng lôi cuốn người đọc ngay từ những chương đầu tiên.",
+    "href": "/truyen/dau-la-dai-luc",
+    "img": "https://gactruyentranh.com/client/assets/images/dau-la-dai-luc.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638504677897,
+    "title": "Đấu La Đại Lục",
+    "type": "Thể loại: Action, Truyện Màu, Adventure, Manhua, Mystery"
+  },
+  {
+    "des": "Truyện tranh Hotboy Quốc Dân Là Nữ được cập nhật nhanh và đầy đủ nhất tại Tranh Truyện. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ Tranh Truyện ra các chương mới nhất của truyện Hotboy Quốc Dân Là Nữ.",
+    "href": "/truyen/hotboy-quoc-dan-la-nu",
+    "img": "https://gactruyentranh.com/client/assets/images/hotboy-quoc-dan-la-nu.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638504677902,
+    "title": "Hotboy Quốc Dân Là Nữ",
+    "type": "Thể loại: Truyện Màu, Manhua, Ngôn Tình, Shoujo, Harem, School Life"
+  },
+  {
+    "des": "Mỗi bông hoa là 1 thế giới, Phàm thế chỉ là một hạt cát bé nhỏ trong tay tiên ma Tiên ma nhất niệm, nhân thế vạn năm Sông núi vạn dặm cũng chỉ là kính hoa thủy nguyệt Con người có 3 hồn 7 phách, sau khi chết hồn sẽ quay về bầu trời sao vạn giới Nơi sâu của trời sao, chính là đàn tràng của tiên ma trong truyền thuyết",
+    "href": "/truyen/van-gioi-tien-tung",
+    "img": "https://gactruyentranh.com/client/assets/images/van-gioi-tien-tung.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638508767686,
+    "title": "Vạn Giới Tiên Tung",
+    "type": "Thể loại: Shounen, Action, Truyện Màu, Adventure, Manhua, Harem, Mystery"
+  },
+  {
+    "des": "Kimetsu no Yaiba – Tanjirou là con cả của gia đình vừa mất cha. Một ngày nọ, Tanjirou đến thăm thị trấn khác để bán than, khi đêm về cậu ở nghỉ tại nhà người khác thay vì về nhà vì lời đồn thổi về ác quỷ luôn rình mò gần núi vào buổi tối. Khi cậu về nhà vào ngày hôm sau, bị kịch đang đợi chờ cậu…",
+    "href": "/truyen/thanh-guom-diet-quy",
+    "img": "https://gactruyentranh.com/client/assets/images/thanh-guom-diet-quy.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638508767694,
+    "title": "Thanh Gươm Diệt Quỷ",
+    "type": "Thể loại: Drama, Manga, Fantasy, Shounen, Historical"
+  },
+  {
+    "des": "Tên khác: Komi-san can't speak well.; Komi-san has a communication disease.; Komi-san has poor communication skills.; Komi-san is asocial.; Komi-san is socially ill Một em dở giao tiếp, nhưng 1 khi đã nói thì.......",
+    "href": "/truyen/komi-khong-the-giao-tiep",
+    "img": "https://gactruyentranh.com/client/assets/images/komi-khong-the-giao-tiep.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 332",
+    "time": 1638515353777,
+    "title": "Komi không thể giao tiếp",
+    "type": "Thể loại: Shounen, Comedy, Shoujo, School Life, One Shot, Slice Of Life, Comic"
+  },
+  {
+    "des": "Tên sao truyện vậy",
+    "href": "/truyen/the-story-of-a-girl-with-sanpaku-eyes",
+    "img": "https://gactruyentranh.com/client/assets/images/the-story-of-a-girl-with-sanpaku-eyes.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 14",
+    "time": 1638515378016,
+    "title": "The Story of a Girl with Sanpaku Eyes",
+    "type": "Thể loại: Manga, Webtoon, Romance, School Life"
+  },
+  {
+    "des": "Park Hyung Suk, béo và xấu xí, luôn bị lôi ra làm trò cười và bắt nạt ở trường. Nhưng có một phép màu đã xảy ra.....",
+    "href": "/truyen/hoan-doi-dieu-ky",
+    "img": "https://gactruyentranh.com/client/assets/images/hoan-doi-dieu-ky.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638515336749,
+    "title": "Hoán Đổi Diệu Kỳ",
+    "type": "Thể loại: Drama, Comedy, School Life, Psychological, Seinen"
+  },
+  {
+    "des": "Nam chính trọng sinh về thế giới quy luật nữ giới toàn là NỮ HÁN TỬ, nam giới thì yểu điệu thục nữ . Liệu 1 kiếm sĩ trọng sinh vô thế giới này có sống và giữ kiên định menly của mình hay hòa nhập trở thành 1 người đàn ông nội trợ dựa dẫm vào phụ nữ",
+    "href": "/truyen/xuyen-khong-vao-the-gioi-nu-cuong",
+    "img": "https://gactruyentranh.com/client/assets/images/xuyen-khong-vao-the-gioi-nu-cuong.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638515336750,
+    "title": "Xuyên Không Vào Thế Giới Nữ Cường",
+    "type": "Thể loại: Fantasy, Truyện Màu, Manhua, Comedy, Ngôn Tình"
+  },
+  {
+    "des": "Nhân vật chính xuyên qua thành một con hổ, sống cuộc sống yên bình êm ả của một sơn quân, chủ nhân của ngọn núi Baek. Bỗng một ngày xuất hiểu tiểu cô nương nhận sơn quân là tướng công, những chuyện rắc rối và ký lạ cũng từ đó bắt đầu....",
+    "href": "/truyen/lang-tien-ky-dam",
+    "img": "https://gactruyentranh.com/client/assets/images/lang-tien-ky-dam.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638515336755,
+    "title": "Lãng Tiên Kỳ Đàm",
+    "type": "Thể loại: Action, Truyện Màu, Adventure, Manhwa"
+  },
+  {
+    "des": "4 lần chết đều là bị đầu độc, lần nào cũng chết trước sinh nhật tuổi 25 mới cay chớ! Tuy nhiên, trong sổ thọ rõ ràng ghi là sống được đến tận 76 tuổi lận mà! Cũng chỉ tại tên Diêm Vương chết tiệt đó, dám chối bỏ trách nhiệm hả?!! Vận mệnh của ta đáng bị trêu đùa lắm à?!! Nma k sao, tái sinh lại cx tốt~ Mình nhất định sẽ sống thật tốt để bắt bọn chúng trả giá! Hơ hơ, sau khi tỉnh dậy, 1 lần nữa tôi lại bị troll bởi tên Diêm Vương F*** đó!",
+    "href": "/truyen/quy-luat-sinh-ton-cua-nu-phu",
+    "img": "https://gactruyentranh.com/client/assets/images/quy-luat-sinh-ton-cua-nu-phu.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638515336762,
+    "title": "Quy Luật Sinh Tồn Của Nữ Phụ",
+    "type": "Thể loại: Fantasy, Truyện Màu, Romance, Comedy, Manhwa"
+  },
+  {
+    "des": "Cảnh giới: Luyện nhục cảnh, Luyện cốt cảnh, Luyện tạng cảnh.... La Chính vì gái mà bị đày làm nô bộc. La Bái Nhiên tham vọng đầy mình :)) La Chính lại vì gái mà đâm đầu tu luyện :)) La Gia trong phủ nước sôi lửa bỏng, tranh giành kịch liệt... thôi thì đọc tiếp sẽ biết :) 1 thanh niên dại gái tu luyện võ công =))",
+    "href": "/truyen/bach-luyen-thanh-than",
+    "img": "https://gactruyentranh.com/client/assets/images/bach-luyen-thanh-than.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638515336763,
+    "title": "Bách Luyện Thành Thần",
+    "type": "Thể loại: Drama, Action, Truyện Màu, Mystery"
+  },
+  {
+    "des": "Cậu trai trẻ Yukihira Souma là con nhà nòi của 1 quán ăn bình dân , cậu có 1 khao khát cháy bỏng là vượt qua cha mình người đã đánh bại cậu liên tục 489 trận ( mặc dù trình nấu ăn của anh Main cũng thần thánh không kém ) . Đến 1 ngày cậu nghe lời cha mình để vào trường đào tạo tài năng ẩm thực . Câu chuyện đời cậu sắp bước sang 1 ngã rẻ khác nhìu thú vị hơn...",
+    "href": "/truyen/cuoc-chien-am-thuc",
+    "img": "https://gactruyentranh.com/client/assets/images/cuoc-chien-am-thuc.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638515336770,
+    "title": "Cuộc Chiến Ẩm Thực",
+    "type": "Thể loại: Action, Romance, Comedy, Harem, Cooking, School Life"
+  },
+  {
+    "des": "Sau 820 năm chìm trong giấc ngủ dài, Cadis Etrama Di Raizel (hay Rai) đã thức tỉnh. Rai là một Vampire và vì đã ngủ quá lâu nên chẳng biết gì về thế giới bên ngoài. Sau khi thức tỉnh anh ta đã hòa mình vào cùng những học sinh khác, có nhiều bạn bè. Nhưng có một tổ chức luôn nghiên cứu và thí nghiệm trên cơ thể người mong muốn có được anh làm mẫu vật. Vì vậy mà Rai và các bạn đều bị đặt trong một tình huống vô cùng nguy hiểm... Nhóm dịch: Red Sky Group 1 10 + [S.We] Group 10 2xx, Shiny 244-",
+    "href": "/truyen/ma-ca-rong-quy-toc",
+    "img": "https://gactruyentranh.com/client/assets/images/ma-ca-rong-quy-toc.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638520468659,
+    "title": "Ma Cà Rồng Quý Tộc",
+    "type": "Thể loại: Action, Adventure, Manhwa"
+  },
+  {
+    "des": "Theo chân Sung JinWoo trên hành trình từ \"thợ săn kém cỏi\" đến \"thợ săn hạng S mạnh nhất thế giới\". (có 1 tí Saitama với 1 tí The gamer, bạn nào thích 2 bộ này xin mời nhảy hố=)",
+    "href": "/truyen/toi-thang-cap-mot-minh",
+    "img": "https://gactruyentranh.com/client/assets/images/toi-thang-cap-mot-minh.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638520468673,
+    "title": "Tôi thăng cấp một mình",
+    "type": "Thể loại: Shounen, Action, Truyện Màu, Adventure, Webtoon"
+  },
+  {
+    "des": "Sư phụ nói vận mệnh không phải do trời định, vận mệnh là do tự mình nỗ lực mà thay đổi. Cho nên ta không tin vận mệnh là do trời định ~ Ta chỉ tin vào bản thân, ta là ngời mà không ai có thể kiểm soát. Chuyện cô ấy và (các) vương gia =))...",
+    "href": "/truyen/thong-linh-phi",
+    "img": "https://gactruyentranh.com/client/assets/images/thong-linh-phi.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638520468678,
+    "title": "Thông Linh Phi",
+    "type": "Thể loại: Historical, Truyện Màu, Manhua, Romance, Comedy, Ngôn Tình, Shoujo, Mystery"
+  },
+  {
+    "des": "Một họa sĩ truyện tranh xuyên qua dị giới Đến lúc đó, hắn nhận ra 1 vấn đề \"Ta không phải nhân vật chính ? Mà là nhân vật phản diện đối địch với nhân vật chính ?\" \"Cái kịch bản này không đúng nha!\"",
+    "href": "/truyen/ngu-linh-the-gioi",
+    "img": "https://gactruyentranh.com/client/assets/images/ngu-linh-the-gioi.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638520468681,
+    "title": "Ngự Linh Thế Giới",
+    "type": "Thể loại: Fantasy, Action, Truyện Màu, Adventure, Manhua, Supernatural"
+  },
+  {
+    "des": "\"Tại sao 5 năm trước rơi vào tay hắn, 5 năm sau cũng là hắn vậy?!\" Bạch Sơ Hiểu tức giận, nhấc cổ áo của Giang Thừa Dục, \"Anh hại tôi đau khổ nhiều năm như vậy, định đền bù như thế nào?\" Giang Thừa Dục cười tà mị, trở tay ôm cô: \"Hai baby này thêm một đời yên vui có được không?",
+    "href": "/truyen/dua-mami-ve-nha",
+    "img": "https://gactruyentranh.com/client/assets/images/dua-mami-ve-nha.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638520468682,
+    "title": "Đưa mami về nhà",
+    "type": "Thể loại: Truyện Màu, Manhua, Ngôn Tình"
+  },
+  {
+    "des": "Mở đầu câu truyện, cậu học sinh trung học 16 tuổi Shinichi Kudo bị biến thành cậu bé Conan Edogawa. Shinichi trong phần đầu của Thám tử lừng danh Conan được miêu tả là một thám tử học đường. Trong một lần đi chơi công viên \"Miền Nhiệt đới\" với cô bạn từ thuở nhỏ (cũng là bạn gái) Ran Mori , cậu bị dính vào vụ án một hành khách trên Chuyến tàu tốc hành trong công viên, Kishida , bị giết trong một vụ án cắt đầu rùng rợn. Cậu đã làm sáng tỏ vụ án và trên đường về nhà, chứng kiến một vụ làm ăn mờ ám của những người đàn ông mặc toàn đồ đen. Kudo bị phát hiện, bị đánh ngất sau đó những người đàn ông áo đen đã cho cậu uống một thứ thuốc độc chưa qua thử nghiệm là Apotoxin-4869 (APTX4869) với mục đích thủ tiêu cậu. Tuy nhiên chất độc đã không giết chết Kudo. Khi tỉnh lại, cậu bàng hoàng nhận thấy thân thể mình đã bị teo nhỏ trong hình dạng của một cậu học sinh tiểu học....",
+    "href": "/truyen/tham-tu-conan",
+    "img": "https://gactruyentranh.com/client/assets/images/tham-tu-conan.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638525118427,
+    "title": "Thám Tử Conan",
+    "type": "Thể loại: Drama, Romance, Comedy, Mystery, School Life, Trinh Thám"
+  },
+  {
+    "des": "\"Ta có trách nhiệm phải hoàn thành tốt nhiệm vụ của mình trong đêm nay. Còn nhiệm vụ của nàng phải làm là trao thân cho ta.\" Bộ truyện do Sói Ngoan team và Thịt Là Chân Ái phối hợp thực hiện. Mong mọi người ủng hộ nhé!",
+    "href": "/truyen/dem-thac-loan",
+    "img": "https://gactruyentranh.com/client/assets/images/dem-thac-loan.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638525118431,
+    "title": "Đêm Thác Loạn",
+    "type": "Thể loại: Drama, Historical, Truyện Màu, Smut, Manhwa, Adult, Mature, Josei, 16+"
+  },
+  {
+    "des": "Sau khi linh khí hồi phục, mọi người chắt chiu từng tơ linh khí, chỉ có Lữ Thụ, dựa vào hệ thống điểm cảm xúc tiêu cực , oán hận người khác là trở nên mạnh hơn! Cậu ta chỉ muốn bảo vệ em gái, nhưng mà thời kì lũ lụt khó có thể tránh khỏi, chỉ đành..... tiện oán hận người khác , trở nên mạnh hơn! Vậy thì , chuẩn bị xong chưa, Lữ Thụ \"Đại Ma Vương \" tới đây",
+    "href": "/truyen/dai-vuong-tha-mang",
+    "img": "https://gactruyentranh.com/client/assets/images/dai-vuong-tha-mang.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638525118432,
+    "title": "Đại Vương Tha Mạng",
+    "type": "Thể loại: Truyện Màu, Manhua, Comedy, Supernatural"
+  },
+  {
+    "des": "ucy là một cô gái 17 tuổi, với giấc mơ trở thành một tinh linh pháp sư thực thụ... Rồi một ngày cô đến thị trấn Harujion, cô đã gặp Natsu, một thiếu niên có khả năng sử dụng ma thuật lửa. Nhưng Natsu không phải là một pháp sư thông thường, cậu sử dụng ma thuật cổ đại do một con rồng tên là Igneel dạy dỗ,và là thành viên của một trong số những hội pháp sư nổi tiếng nhất.",
+    "href": "/truyen/hoi-phap-su-noi-tieng",
+    "img": "https://gactruyentranh.com/client/assets/images/hoi-phap-su-noi-tieng.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638525118436,
+    "title": "Hội Pháp Sư Nổi Tiếng",
+    "type": "Thể loại: Drama, Fantasy, Shounen, Action, Adventure, Comedy, Supernatural"
+  },
+  {
+    "des": "Tên khác: Wind Breaker \"Thể Thao Mạo Hiểm\" và đây cũng là truyện trẻ trâu hư cấu. Tôi giả thuyết rằng các bạn biết thực tế và truyện tranh là khác nhau. Vậy nên luôn đội mũ bảo hiểm",
+    "href": "/truyen/the-thao-cuc-han",
+    "img": "https://gactruyentranh.com/client/assets/images/the-thao-cuc-han.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638525118438,
+    "title": "Thể Thao Cực Hạn",
+    "type": "Thể loại: Drama, Action, Truyện Màu, Manhwa, Sports"
+  },
+  {
+    "des": "Sinh viên đại học phổ thông- Lâm Hải, sau khi cập nhật Wechat, bị lôi kéo vào nhóm giao dịch của Thiên Đình, Cuộc sống từ nay trở về sau trở nên nhiều màu sắc, quả bàn đào đổi lấy mặt nạ đắp mặt, Kim Đan đổi thuốc lá, thứ lỗi cho không ký sổ!",
+    "href": "/truyen/dien-thoai-cua-ta-thong-tam-gioi",
+    "img": "https://gactruyentranh.com/client/assets/images/dien-thoai-cua-ta-thong-tam-gioi.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638525118439,
+    "title": "Điện thoại của ta thông tam giới",
+    "type": "Thể loại: Fantasy, Truyện Màu, Manhua, Comedy, Mystery"
+  },
+  {
+    "des": "One Piece xoay quanh 1 nhóm cướp biển được gọi là Băng Hải tặc Mũ Rơm - Straw Hat Pirates - được thành lập và lãnh đạo bởi thuyền trưởng Monkey D. Luffy. Cậu bé Luffy có ước mơ tìm thấy kho báu vĩ đại nhất, One Piece, của Vua Hải Tặc đời trước Gold D. Roger và trở thành Vua Hải Tặc đời kế tiếp. Ở Việt Nam hiện nay, truyện đang được Nhà xuất bản Thanh Hóa xuất bản nhưng không có bản quyền, với tên gọi là Đảo Hải tặc Cốt truyện: Monkey D. Luffy, 1 cậu bé rất thích hải tặc có ước mơ tìm được kho báu One Piece và trở thành Vua hải tặc - Pirate King. Lúc nhỏ, Luffy tình cờ ăn phải trái quỉ (Devil Fruit) Gomu Gomu, nó cho cơ thể cậu khả năng co dãn đàn hồi như cao su nhưng đổi lại cậu sẽ không bao giờ biết bơi. Sau đó Luffy lại được Shank cứu thoát tuy nhiên ông ta bị mất 1 cánh tay. Sau đấy Shank chia tay Luffy và để lại cho cậu cái mũ rơm (Straw Hat) và nói rằng: \"Sau này bao giờ thành cướp biển hãy gặp ta và trả lại nó\". Chính lời nói này đã thúc đầy Luffy trở thành 1 cướp biển thật sự.",
+    "href": "/truyen/dao-hai-tac",
+    "img": "https://gactruyentranh.com/client/assets/images/dao-hai-tac.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 1033",
+    "time": 1638539675829,
+    "title": "Đảo Hải Tặc",
+    "type": "Thể loại: Drama, Manga, Fantasy, Shounen, Action, Adventure, Comedy"
+  },
+  {
+    "des": "Sau 1 trận đại dịch không rõ nguồn gốc khiến loài người trên toàn thể địa cầu biến thành đá trải qua mấy ngàn năm sau 2 thanh niên chính của chúng ta là Senkuu và Taiju phá đá thoát ra và bắt đầu lập kế hoạch để cùng nhau tái thiết lập lại thế giới theo cách của họ",
+    "href": "/truyen/hoi-sinh-the-gioi",
+    "img": "https://gactruyentranh.com/client/assets/images/hoi-sinh-the-gioi.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638530080023,
+    "title": "Hồi Sinh Thế Giới",
+    "type": "Thể loại: Manga, Shounen, Action, Supernatural"
+  },
+  {
+    "des": "Tự sát bất thành sau những uất ức tủi nhục khi bị bạn bè bắt nạt, cậu nhóc đã được lực lượng cảnh sát giải cứu thành công. Mặc dù vậy, quyết tâm tự tử của cậu nhóc bằng cách nào đó lôi kéo Sierra - một tử thần, đã cung cấp cho cậu một bản hợp đồng thú vị. Hợp đồng này ban cho Kyung Ho khả năng mượn sức mạnh của danh nhân bằng cách đánh đổi tuổi thọ của mình. Liệu cậu nhóc có ký vào bản hợp đồng đó hay không?",
+    "href": "/truyen/cau-be-cua-than-chet",
+    "img": "https://gactruyentranh.com/client/assets/images/cau-be-cua-than-chet.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638530080025,
+    "title": "Cậu Bé Của Thần Chết",
+    "type": "Thể loại: Fantasy, Action, Truyện Màu, Webtoon, Manhwa, Psychological"
+  },
+  {
+    "des": "Mairimashita! Iruma-kun là câu chuyện kể về cậu bé Suzuki Iruma, người đã bị bố mẹ mình kí khế ước bán cho ác ma để đổi lấy tiền tài và bình an. Cậu bé Iruma đáng thương từ lúc mới biết đi (1 tuổi) đã phải \"ra xã hội\" lăn lộn, buôn ba khắp nơi với hai vị phụ huynh \"tưng tửng\" cho đến ngày một Ác Ma đến rước cậu đến Ma giới theo khế ước. Tưởng chừng như sắp vào bụng quỷ thì vị Ác Ma già nua này đã khóc lóc yêu cầu cậu làm cháu trai ông ta, với bản tính lương thiện và tốt bụng đến cả bản thân mình cũng phải kinh ngạc, cậu bất đắc dĩ đã đồng ý lời đề nghị đó và nhập học trường Ác Ma theo ý ông ta. Chuyện gì sẽ xảy ra tiếp theo, mời các bạn theo dõi cuộc sống học đường đầy bất thường của Iruma-kun.",
+    "href": "/truyen/mairimashita-iruma-kun",
+    "img": "https://gactruyentranh.com/client/assets/images/mairimashita-iruma-kun.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 230",
+    "time": 1638539640578,
+    "title": "Mairimashita! Iruma-kun",
+    "type": "Thể loại: Drama, Manga, Fantasy, Shounen, Comedy, Mystery, School Life, Supernatural"
+  },
+  {
+    "des": "Một hôm, Kouki Nakagawa quyết tâm tuyên bố tình yêu của mình với Ayumi Fujisaki, người bạn thời thơ ấu của mình. Đột nhiên, một cô gái bí ẩn xuất hiện trước họ và nói rằng cô ấy là bạn gái của Kouki, khiến cả hai đều bối rối. Sau khi cố gắng nói chuyện với Ayumi một lần nữa, Kouki thú nhận tình yêu của mình với cô; Nhưng Jindou, cô gái bí ẩn, dường như cảnh báo Kouki rằng nếu anh ta không chấp nhận làm bạn trai và không quên Ayumi ... Thế giới sẽ bị phá hủy!",
+    "href": "/truyen/sekai-ka-kanojo-ka-erabenai",
+    "img": "https://gactruyentranh.com/client/assets/images/sekai-ka-kanojo-ka-erabenai.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 40 Phần 2",
+    "time": 1638539598213,
+    "title": "Sekai ka Kanojo ka Erabenai",
+    "type": "Thể loại: Manga, Shounen, Romance, Comedy"
+  },
+  {
+    "des": "Akuu, một cậu bé sinh ra vào đêm trăng máu nên cậu bị mang lời nguyền sẽ giáng tai họa diệt chủng xuống bộ tộc của cậu và bị cả làng hắt hủi. Nhưng cậu không để số phận quyết định cuộc đời cậu. Cậu lao vào tập luyện với hy vọng không để số phận quyết định cuộc đời cậu.",
+    "href": "/truyen/grashros",
+    "img": "https://gactruyentranh.com/client/assets/images/grashros.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 47",
+    "time": 1638539584571,
+    "title": "Grashros",
+    "type": "Thể loại: Drama, Manga, Historical, Action, Adventure, Seinen"
+  },
+  {
+    "des": "Tower of God kể về cuộc đấu tranh để leo lên đỉnh tòa tháp của nhiều con người với các mục đích khác nhau, nơi mà mọi mong muốn của bạn: tiền, quyền lực, sức mạnh, hay bất cứ một điều gì khác đều có thể được đáp ứng. Tại đây, mỗi người đều phải trổ hết tài năng của mình để leo lên từng tầng, mà mỗi tầng của tháp lại có vô vàn những thử thách khó khăn đang chờ họ, để đạt tới mục tiêu của mình. Thất bại đôi khi sẽ phải trả giá bằng chính mạng sống của mỗi người. Đây là nơi các thế lực minh tranh ám đấu, từ các cá nhân với năng lực siêu phàm được xưng tụng là God, các đại gia tộc thế lực hùng mạnh, đến những tổ chức phản loạn nguy hiểm khiến người chơi có thể dễ dàng biến thành con cờ trong tay họ. Tòa tháp cũng là nơi thử thách cho tình bạn, tình đồng đội khi ngay cả người thân nhất cũng sẵn sàng bán đứng bạn vì tham vọng của mình. Nhân vật chính trong Tower of God là một cậu bé nhỏ con, không có tài năng gì nổi bật ngoài sự dũng cảm và niềm tin mãnh liệt vào tình bạn mang tên Twenty Fifth Baam – kẻ vô tình bị cuốn vào tòa tháp đầy sự cám dỗ. Chính Baam là người mang hi vọng sẽ có đủ sức mạnh để thay đổi toàn bộ tòa tháp, thậm chí đánh đổ cả vị Thần đứng đầu thế giới… Liệu điều gì đang chờ đợi cậu phía trước?",
+    "href": "/truyen/toa-thap-bi-an",
+    "img": "https://gactruyentranh.com/client/assets/images/toa-thap-bi-an.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 518",
+    "time": 1638539559356,
+    "title": "Tòa Tháp Bí Ẩn",
+    "type": "Thể loại: Drama, Fantasy, Shounen, Action, Adventure, Romance, Comedy, Manhwa"
+  },
+  {
+    "des": "Truyện tranh Trên Người Ta Có Một Con Rồng được cập nhật nhanh và đầy đủ nhất tại Tranh Truyện. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ Tranh Truyện ra các chương mới nhất của truyện Trên Người Ta Có Một Con Rồng.",
+    "href": "/truyen/tren-nguoi-ta-co-mot-con-rong",
+    "img": "https://gactruyentranh.com/client/assets/images/tren-nguoi-ta-co-mot-con-rong.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 0",
+    "time": 1638532699541,
+    "title": "Trên Người Ta Có Một Con Rồng",
+    "type": "Thể loại: Truyện Màu, Manhua, Martial Arts"
+  },
+  {
+    "des": "Câu chuyện kể vể Toriko một thợ săn pro thường xuyên cung cấp các loại thực phẩm quý giá cho nhà hàng và những người giàu có, một anh chàng có đầy sức mạnh để săn bắt các loài động vật hung dữ . Đây là một bộ manga mới phát hành 1 năm rưỡi nhưng đang đứng thứ 4 về mức độ yêu thích của các độc giả Weeky Jump (sau One Piece Naturo Bleach) , mặc dù vậy nhưng Toriko chưa được scan (lậu) rộng rãi .",
+    "href": "/truyen/tho-san-am-thuc",
+    "img": "https://gactruyentranh.com/client/assets/images/tho-san-am-thuc.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 396",
+    "time": 1638539542472,
+    "title": "Thợ Săn Ẩm Thực",
+    "type": "Thể loại: Fantasy, Shounen, Action, Romance, Supernatural, Mature"
+  },
+  {
+    "des": "Vị công nương bị giam lỏng trong tòa tháp đang phải đối mặt với một cuộc hôn nhân. Chồng nàng là người đã nhiều lần giết vợ. Khiếp sợ trước hoàn cảnh ấy, nàng đã đập vỡ những chiếc quan tài dưới tầng hầm và kêu gọi ác quỷ ....",
+    "href": "/truyen/ac-quy",
+    "img": "https://gactruyentranh.com/client/assets/images/ac-quy.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 67",
+    "time": 1638539551313,
+    "title": "Ác Quỷ",
+    "type": "Thể loại: Historical, Truyện Màu, Romance, Manhwa"
+  },
+  {
+    "des": "Truyện về một cô gái làm bartender và quầy bar đặc biệt của cô, nơi cô tạo ra những món cocktail làm say lòng các vị khách khi ghé ngang...",
+    "href": "/truyen/sleepy-barmaid",
+    "img": "https://gactruyentranh.com/client/assets/images/sleepy-barmaid.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 21",
+    "time": 1638539501260,
+    "title": "Sleepy Barmaid",
+    "type": "Thể loại: Drama, Manga, Comedy, Slice Of Life, Seinen"
+  },
+  {
+    "des": "Khoa học kỹ thuật tiên tiến, làm sống lại 16 mãnh tướng mạnh nhất lịch sử... Quan Vân Trường, Hạng Vũ, Lữ Bố, Lý Nguyên Bá... được chọn cặp đấu ngẫu nhiên. Ai thắng sẽ được thực hiện một nguyện vọng...",
+    "href": "/truyen/manh-nhat-lich-su",
+    "img": "https://gactruyentranh.com/client/assets/images/manh-nhat-lich-su.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 195",
+    "time": 1638539494680,
+    "title": "Mạnh Nhất Lịch Sử",
+    "type": "Thể loại: Fantasy, Truyện Màu, Manhua, Martial Arts, Supernatural"
+  },
+  {
+    "des": "Truyện nét vẽ hơi bựa nhưng khá hay, các bạn chịu khó theo dõi nha! Kageyama Shigeo (a.k.a. “Mob”) là một học sinh lớp 8 có khả năng tâm linh. Cậu ta có thể bẻ cong thìa hoặc nhấc đồ vật từ khi còn nhỏ. Nhưng cậu bắt đầu hạn chế sử dụng khả năng của mình vì sợ mọi người chú ý. Bây giờ, điều duy nhất cậu muốn làm là làm bạn với một cô gái trong lớp, Tsubomi. Với người cố vấn “tâm linh” của mình( không có khả năng tâm linh), cậu tiếp tục cuộc sống hàng ngày của mình, và từ từ nhận ra mục đích thực sự của cuộc sống của cậu.",
+    "href": "/truyen/mob-psycho-100",
+    "img": "https://gactruyentranh.com/client/assets/images/mob-psycho-100.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 95 Phần 3",
+    "time": 1638539474547,
+    "title": "Mob Psycho 100",
+    "type": "Thể loại: Shounen, Action, Comedy, School Life, Psychological, Supernatural, Slice Of Life"
+  },
+  {
+    "des": "Một đại tiểu thư kiêu ngạo ngang ngược chết đi, một thiên tài y học thế kỷ 21 xuyên việt đến. nàng y thuật cao siêu, tâm linh trong sáng, đối mặt với cha mẹ chồng không không thân, trượng phu không thương, còn có ánh mắt săm soi ghen tỵ của các cô vợ bé, chỉ dựa vào một con dao mổ nhỏ nhoi giẫm vợ bé, đạp tâm cơ, đánh đâu thắng đó. Thiếu soái trượng phu vốn coi nàng như cỏ rác nhưng bây giờ đêm đên trèo cửa sổ, bò lên giường của nàng, muốn trở thành một đôi uyên ương thiên trường địa cửu . . .",
+    "href": "/truyen/ngay-nao-thieu-soai-cung-ghen",
+    "img": "https://gactruyentranh.com/client/assets/images/ngay-nao-thieu-soai-cung-ghen.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 377",
+    "time": 1638539483120,
+    "title": "Ngày Nào Thiếu Soái Cũng Ghen",
+    "type": "Thể loại: Truyện Màu, Manhua, Ngôn Tình, Xuyên Không"
+  },
+  {
+    "des": "Hỏa Vũ Diệu Dương, tác phẩm đỉnh phong nhất của Khâu Thụy Tân tiên sinh, vốn là người đảm nhận biên họa cho Người Trong Giang Hồ. Hỏa Vũ Diệu Dương với lối xây dựng hình ảnh Hồng Môn một cách sống động, kết hợp hoàn hảo giữa những ân oán giang hồ và yếu tố lịch sử văn hóa từ kiếm hiệp. HẤP DẪN, LÔI CUỐN",
+    "href": "/truyen/hoa-vu-dieu-duong",
+    "img": "https://gactruyentranh.com/client/assets/images/hoa-vu-dieu-duong.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 402",
+    "time": 1638539466148,
+    "title": "Hỏa Vũ Diệu Dương",
+    "type": "Thể loại: Action, Truyện Màu, Manhua, Martial Arts, Adult, Mature"
+  },
+  {
+    "des": "Truyện tranh Hỗn Độn Đan Thần được cập nhật nhanh và đầy đủ nhất tại Tranh Truyện. Bạn đọc đừng quên để lại bình luận và chia sẻ, ủng hộ Tranh Truyện ra các chương mới nhất của truyện Hỗn Độn Đan Thần.",
+    "href": "/truyen/hon-don-dan-than",
+    "img": "https://gactruyentranh.com/client/assets/images/hon-don-dan-than.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 209",
+    "time": 1638539456067,
+    "title": "Hỗn Độn Đan Thần",
+    "type": "Thể loại: Fantasy, Action, Truyện Màu, Manhua, Supernatural"
+  },
+  {
+    "des": "Kengan Ashura Phần 2. Tiếp tục câu chuyện sau khi giải đấu kết thúc.",
+    "href": "/truyen/kengan-omega",
+    "img": "https://gactruyentranh.com/client/assets/images/kengan-omega.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 132",
+    "time": 1638539381078,
+    "title": "Kengan Omega",
+    "type": "Thể loại: Drama, Manga, Action, Martial Arts"
+  },
+  {
+    "des": "Một nhóm người đã cùng nhau đến một hòn đảo, nơi cách biệt với thế giới hiện đại và cũng là nơi đã bị ma cà rồng chiếm giữ Mục đích chuyến đi là để tìm kiếm người anh trai đã mất tích khi tới hòn đào này sau khi thực sự chứng kiến và vất vả để giết được một con ma cà rồng thực sự Nhưng khi tới hòn đào thì mọi chuyện ko đơn giản như họ nghĩ, cái chết đơn giản hơn sự sống, nếu có địa ngục đây chính là địa ngục thứ 2. Liệu họ có vượt qua được địa ngục này hay không? Truyện thuộc thể loại kinh dị, chiến đấu, mang nhiều ý tưởng sáng tạo và nhân văn, vô cùng lôi cuốn và hấp dẫn.... Phần 3",
+    "href": "/truyen/dao-ma-ca-rong",
+    "img": "https://gactruyentranh.com/client/assets/images/dao-ma-ca-rong.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 720",
+    "time": 1638539391883,
+    "title": "Đảo ma cà rồng",
+    "type": "Thể loại: Fantasy, Horror, Seinen"
+  },
+  {
+    "des": "Một người đàn ông thức tỉnh khả năng của mình nhưng khả năng này là rác rưởi. Trong một nhiệm vụ trong chiến đấu trong hầm ngục với đồng đội của anh ta, tất cả các thành viên trong đội của anh ta ngoại trừ anh ta đều bị giết. Điều này là do con boss trong hầm ngục giận dữ, đã được thả ra vì họ. Trong ngục tối này, anh ta có nhận được một thanh kiếm và nâng cấp sức mạnh của mình với thanh kiếm đó. Người đàn ông này sẽ làm gì một mình chống lại tất cả?",
+    "href": "/truyen/mot-minh-dao-quanh-ham-nguc",
+    "img": "https://gactruyentranh.com/client/assets/images/mot-minh-dao-quanh-ham-nguc.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 75",
+    "time": 1638539368889,
+    "title": "Một mình dạo quanh hầm ngục",
+    "type": "Thể loại: Fantasy, Action, Truyện Màu, Supernatural"
+  },
+  {
+    "des": "Cứ ngỡ hắn tới để giúp tôi...Nhưng tôi không ngờ giờ tôi lại phải đối đấu với kẻ thù đáng gờm nhất từ trước tới giờ",
+    "href": "/truyen/nam-dam",
+    "img": "https://gactruyentranh.com/client/assets/images/nam-dam.jpg",
+    "isRead": false,
+    "lastChapter": "Chapter 80",
+    "time": 1638539360052,
+    "title": "Nắm Đấm",
+    "type": "Thể loại: Action, Truyện Màu, Webtoon, Manhwa, Martial Arts, School Life, Mature"
   }
 ]
