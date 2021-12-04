@@ -6560,16 +6560,6 @@
     "type": "Thể loại: Truyện Màu, Adventure, Manhua, Xuyên Không, Supernatural"
   },
   {
-    "des": "Tiếp nối phần 1 Phần 1 click xem ở đây Phần 3 click xem ở đây",
-    "href": "/truyen/phung-lam-thien-ha-ii-–-loan-the-vuong-phi",
-    "img": "https://gactruyentranh.com/client/assets/images/phung-lam-thien-ha-ii-–-loan-the-vuong-phi.jpg",
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1637413410355,
-    "title": "Phụng Lâm Thiên Hạ Ii – Loạn Thế Vương Phi",
-    "type": "Thể loại: Drama, Historical, Action, Truyện Màu, Manhua, Romance"
-  },
-  {
     "des": "Xuyên qua thế giới khác, lại nhập vào thân xác của 1 phế vật. Hừ, những kẻ đang ức hiếp ta, các ngươi phải trả giá...",
     "href": "/truyen/ma-vuong-dai-nhan-phu-nhan-lai-bo-di-roi",
     "img": "https://gactruyentranh.com/client/assets/images/ma-vuong-dai-nhan-phu-nhan-lai-bo-di-roi.jpg",
