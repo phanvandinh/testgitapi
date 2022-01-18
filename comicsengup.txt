@@ -1946,7 +1946,7 @@
     "type": "Manhua"
   },
   {
-    "chapterUserReading": "Yume Maboroshi No Gotoku - Chapter 60: The Monkey S Cunning",
+    "chapterUserReading": "-1",
     "des": "Yume Maboroshi no Gotoku summary is updating. Come visit MangaNato.com sometime to read the latest chapter of Yume Maboroshi no Gotoku. If you have any question about this manga, Please don't hesitate to contact us or translate team. Hope you enjoy it.",
     "href": "/mangaimage/manga-bb951358",
     "imageSrc": "",
@@ -2100,7 +2100,7 @@
     "type": "Manhua"
   },
   {
-    "chapterUserReading": "Guutara Renai No Seihou - Vol Part 1 Chapter 4",
+    "chapterUserReading": "-1",
     "des": "Guutara Renai no Seihou summary is updating. Come visit MangaNato.com sometime to read the latest chapter of Guutara Renai no Seihou. If you have any question about this manga, Please don't hesitate to contact us or translate team. Hope you enjoy it.",
     "href": "/mangaimage/manga-me952261",
     "imageSrc": "",
@@ -5348,7 +5348,7 @@
     "type": "Manhua"
   },
   {
-    "chapterUserReading": "The Demon King Who Lost His Job - Chapter 229",
+    "chapterUserReading": "-1",
     "des": "He is the king of the demon world who has become unemployed because of impeachment. She was the brave hero who was laid off because of the failure of the expedition. The bond of destiny binds the two together as they embark on a journey full of unknown adventures.",
     "href": "/mangaimage/manga-ft982402",
     "imageSrc": "",
