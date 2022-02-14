@@ -3457,32 +3457,8 @@
     "title": "Nữ Vương Đích Thủ Thuật Đao",
     "type": "Cổ Đại,Action,Romance,Xuyên không,Manhua"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/nhat-da-nghiet-tinh-cuong-hon-hao-mon-lao-cong.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/d0/0c/d00c0091bb532cf4ab3338651e922da0.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1630666153070,
-    "title": "Nhất Dạ Nghiệt Tình: Cuồng Hôn Hào Môn Lão Công",
-    "type": "Drama,Romance,Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/tan-nuong-the-than.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/56/4d/564dbcc0ccc04d4204ec6b309ea30c54.webp",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1630666153070,
-    "title": "Tân Nương Thế Thân",
-    "type": "Drama,Romance,Shoujo,Manhua"
-  },
+ 
+ 
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/vuong-gia-ba-tuoi-ruoi-cua-toi.html",
@@ -3535,32 +3511,8 @@
     "title": "Kế hoạch sủng ái của tiểu công chúa",
     "type": "Cổ Đại,Romance,Xuyên không,Manhua"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/mat-na-co-dau.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/28/07/28079d892104389179978fe9447c8d91.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1630666153072,
-    "title": "Mặt nạ cô dâu",
-    "type": "Romance,Drama"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/bup-be-bao-thu.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/c6/cb/c6cb4660a5b9b27ef3c4d7f77a0b430c.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1630666153072,
-    "title": "Búp bê báo thù",
-    "type": "Romance,Drama,Manhua"
-  },
+ 
+
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/vo-yeu-cuoi-truoc-sung-sau.html",
@@ -3795,19 +3747,7 @@
     "title": "Bắt Cóc Hoàng Đế Về Hiện Đại",
     "type": "Xuyên Không,Manhua"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/akagami-no-shirayukihime.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/34/8e/348ee0dc7c60cb1269ab46e28949d3c0.jpg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 104",
-    "time": 1641787299499,
-    "title": "Akagami no Shirayukihime",
-    "type": "Drama,Fantasy,Romance,Comedy,Shoujo"
-  },
+ 
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/cam-duc-boss-doi-doi-em.html",
@@ -4055,19 +3995,7 @@
     "title": "Một số ảnh Anime đẹp (Drop)",
     "type": "Anime,Art Book"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/cong-tuoc-loan-vua-thoi.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/comics/e9/f3/e9f348ee9cff32738de8da3b2134d02d.jpg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1630670447046,
-    "title": "Công Tước Phần  Loạn Vừa Thôi!",
-    "type": "Tạp chí truyện tranh,Manhua,Webtoon,Slice of Life,Manhwa,Romance,Fantasy,Action,Comic,Comedy,Drama,Manga,Doujinshi"
-  },
+ 
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/ong-xa-thu-tinh-coi-nhe-tinh-yeu.html",
@@ -8331,19 +8259,6 @@
     "time": 1631615753772,
     "title": "Dolo Mệnh Vận Giao Nang",
     "type": "Fantasy,Shoujo,Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/cha-con-khong-muon-ket-hon.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/comics/13/f1/13f17c52202c2e3dd8217cb18ab75e0b.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": true,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1631616441649,
-    "title": "Cha Phần  con không muốn kết hôn!",
-    "type": "Romance,Manhwa,Drama,Fantasy,Supernatural,Historical,Xuyên Không"
   },
   {
     "des": "",
@@ -14650,19 +14565,7 @@
     "title": "Vào Ngày Tận Thế Nhặt Được Hệ Thống",
     "type": "Action,Fantasy,Manhua,Adventure"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/chocolate-vampire.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/85/a2/85a23affd724e30a25e5de7d866c8271.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1635996628457,
-    "title": "Chocolate Vampire",
-    "type": "Drama,Harem,Romance,School Life,Shoujo,Supernatural,Comedy"
-  },
+  
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/aishiteruze-baby.html",
@@ -14715,19 +14618,7 @@
     "title": "Sổ Tay Sinh Tồn Của Nàng Dâu Hoàng Gia",
     "type": "Shoujo,Manhua"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/the-gioi-phap-thuat-2.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/f2/36/f236ccaf4a83bf578c76837a147b7f44.webp",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1635997225080,
-    "title": "Thế Giới Pháp Thuật 2",
-    "type": "Mystery,Shounen,Drama,Fantasy,Adventure,Action,Comedy,Martial Arts"
-  },
+
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/sos-toi-da-yeu-mot-con-sau-buom.html",
@@ -15248,19 +15139,7 @@
     "title": "Lời Thú Nhận Nhầm Lẫn",
     "type": "Romance,Manhwa"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/ong-ngoai-tuoi-38.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_2d502afc7ce5eea6f658e7dc344e6204.jpg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1636083792616,
-    "title": "Ông Ngoại Tuổi 38",
-    "type": "Drama,Romance,Shoujo,Comedy,Manhua"
-  },
+
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/trong-sinh-noan-hon-khinh-sung-the.html",
@@ -15300,19 +15179,7 @@
     "title": "GÁNH XIẾC QUÁI DỊ",
     "type": "Shounen,Drama,Supernatural,Action,Comedy,Tragedy"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/tong-tai-phu-nhan-tu-luyen-so-tay.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/1a/7b/1a7b47d6eeca04d932c481bfe982b5a6.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1636084175958,
-    "title": "Tổng tài phu nhân tu luyện sổ tay",
-    "type": "Drama,Romance,Comedy,Anime"
-  },
+
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/toan-chuc-cao-thu.html",
@@ -15326,19 +15193,7 @@
     "title": "Toàn Chức Cao Thủ",
     "type": "Manhua"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/kingdom-pinkylady.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_1e510bbba66ab6dfa0ae243f5c6453af.jpg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1636086811139,
-    "title": "Kingdom (PinkyLady)",
-    "type": "Action,Drama,Seinen,Adventure,Historical"
-  },
+
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/thien-than-quyet.html",
@@ -15690,19 +15545,7 @@
     "title": "Conan",
     "type": "Drama,Mystery,School Life,Trinh Thám"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/tinh-co-tim-thay-thang-7find-july.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/46/0d/460dde5f2cd8c9d254d1b28216bb2e7b.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1636962209936,
-    "title": "TÌNH CỜ TÌM THẤY THÁNG 7- FIND JULY",
-    "type": "Romance,Webtoon,Fantasy,Manhwa,Drama,School Life,Shoujo"
-  },
+ 
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/ke-bi-ruong-bo.html",
@@ -15950,19 +15793,7 @@
     "title": "Hogosha Shikkaku Phần  Issen Wo Koe Ta Yoru",
     "type": "Manga"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/twin-slave-no-le.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/b2/c8/b2c8cb174c09e98b6b38bdbd6dbf90cd.jpg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 117",
-    "time": 1636980930409,
-    "title": "Twin Slave - nô lệ",
-    "type": "Drama,Comedy,Webtoon,Manhwa"
-  },
+
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/con-cao-noi-gi.html",
@@ -16017,19 +15848,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/diem-de.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/1e/c7/1ec7bbf6ae6e46fad40591e38e29dbe1.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Diêm Đế - King Of Hell Chap 274 End",
-    "time": 1636983180092,
-    "title": "Diêm Đế",
-    "type": "Magic,Drama,Fantasy,Adventure,Action,Comedy,Martial Arts"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/kengan-ashua.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_f5479a5e6cb21a0dfe3f25f1c4b2a176.jpg",
@@ -16054,19 +15872,7 @@
     "title": "Siêu quậy Teppi",
     "type": "Action,School Life,Comedy,Martial Arts"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/van-tra-trieu-hoang-[thien-bang-team].html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/1a/28/1a283301c7d3e51877a4453c14604eca.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1636985588796,
-    "title": "Vạn Tra Triều Hoàng  Phần Thiên Băng Team Phần",
-    "type": "Cổ Đại,Drama,Manhua,Romance,Fantasy,Xuyên không"
-  },
+
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/hunter-x-hunter.html",
@@ -16106,19 +15912,7 @@
     "title": "Buttobi Itto",
     "type": "Action,School Life,Comedy,Martial Arts,Sports"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/tsugi-wa-sasetene.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/f5/58/f55853728c7271525fade17257adfbb2.webp",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1636986981358,
-    "title": "Tsugi wa Sasetene",
-    "type": "Drama,Romance,Shoujo,Comedy,School Life"
-  },
+
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/vo-yeu-tu-sung-cua-thieu-soai.html",
@@ -16368,19 +16162,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/bokura-ga-ita.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_c844811a1138544264cb4b06c2edb535.jpg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1637037814404,
-    "title": "Bokura ga ita",
-    "type": "Drama,Slice of Life,Romance,School Life,Shoujo,Comedy,Tragedy"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/mairimashita-iruma-kun.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/49/00/4900765d3cb364914abadecffc7fc724.jpeg",
@@ -16404,19 +16185,6 @@
     "time": 1637039315716,
     "title": "Himouto! Umaru-chan",
     "type": "Romance,School Life,Comedy,Slice of Life,Shounen"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/black-bird.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/23/f3/23f3846850be88bd92d638122d0223f7.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Black bird chap 72 Phần 2",
-    "time": 1637039286190,
-    "title": "Black Bird",
-    "type": "Drama,Romance,Fantasy,Shoujo,Supernatural,Comedy"
   },
   {
     "des": "",
@@ -16483,19 +16251,7 @@
     "title": "Mage & Demon Queen",
     "type": "Fantasy,Comedy"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/khong-ga-cho-tong-tai-ga-cho-nam-boc.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/2c/c6/2cc68de29eed453f5f2472b0a8132b29.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1637044714109,
-    "title": "Không Gả Cho Tổng Tài Phần  Gả Cho Nam Bộc",
-    "type": "Drama,Comedy,Manhua"
-  },
+  
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/bay-ngay-thuc-cot-hon-nhan.html",
@@ -16574,19 +16330,7 @@
     "title": "Watari-kun no xx ga Houkai Sunzen",
     "type": "Romance,School Life,Seinen,Comedy,Slice of Life"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/tro-choi-san-tinh-tong-tai-kho-kim-long.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/f6/38/f638ed3584a367685905f97c08cddf96.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1637050304260,
-    "title": "Trò chơi săn tình: Tổng tài khó kìm lòng",
-    "type": "Drama,Manhua"
-  },
+
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/isekai-mahou-wa-okureteru.html",
@@ -16613,19 +16357,7 @@
     "title": "Ai hơn ai",
     "type": "Manhwa"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/toi-yeu-em-.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/6b/3a/6b3ae6ad975dba3baa8f56b577b74188.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1637050931760,
-    "title": "Tôi Yêu Em",
-    "type": "Drama,Romance,Shoujo,Comedy"
-  },
+ 
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/toi-la-vo-toi.html",
@@ -16678,32 +16410,7 @@
     "title": "Bí Ngô Cuồng Sát - Pumpkin Night",
     "type": "Action,Fantasy,Horror,Manga"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/thau-tinh-cuu-nguyet-thien.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/1d/02/1d026986fe327ef22734e1ad0748e360.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1637056290891,
-    "title": "Thâu Tinh Cửu Nguyệt Thiên",
-    "type": "Mystery,Drama,Comedy,Manhua,Fantasy,Romance,School Life,Shoujo,Supernatural,Adventure,Action,Xuyên Không"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/thu-cung.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_d38d11dbd210ba1b23a488ca667bac29.jpg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1637056995895,
-    "title": "Thú Cưng",
-    "type": "Drama,School Life,Yuri,Shoujo Ai"
-  },
+
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/shiki.html",
@@ -16729,19 +16436,6 @@
     "time": 1637057176491,
     "title": "Arisa",
     "type": "Romance,School Life,Manga"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/dai-thuc-nguoi-ta-se-ngoan.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/d6/6c/d66c75a9481b939b7c12f12494791a69.webp",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1637061406685,
-    "title": "Đại Thúc Phần  Người Ta Sẽ Ngoan",
-    "type": "Drama,Romance,Shoujo,Comedy,Manhua"
   },
   {
     "des": "",
@@ -16925,19 +16619,7 @@
     "title": "Chàng Trai Hào Hiệp",
     "type": "Truyện scan,Manhwa,Romance,School Life,Shoujo,Action"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/a-love-in-100-days.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_3b50b23d94246039012f53c0d8287822.jpg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "A love in 100 days chap 13 Phần 4  Phần End Phần",
-    "time": 1637068123627,
-    "title": "A Love in 100 Days",
-    "type": "Drama,Manhwa,Romance,School Life,Shoujo,Supernatural,Comedy"
-  },
+
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/saga-kiem-thanh-su.html",
@@ -17341,19 +17023,7 @@
     "title": "Kenji - Quyền nhi Phương Thế Ngọc",
     "type": "Seinen,Shounen,Adventure,Historical,Action,Martial Arts"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/tokyo-crazy-paradise-thien-duong-say-me-tokyo.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/eb/bd/ebbdd58e5013f3afea23e2fc38f2742b.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1637121864491,
-    "title": "Tokyo Crazy Paradise - Thiên đường say mê Tokyo",
-    "type": "Drama,Sci-fi,Romance,Shoujo,Adventure,Action,Comedy"
-  },
+ 
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/fujimura-kun-meitsu.html",
@@ -17393,19 +17063,7 @@
     "title": "Bước Qua Tuổi 16",
     "type": "Drama,Romance,School Life,Shoujo,Action,Comedy"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/tinh-dau-danh-het-cho-em.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/f6/7a/f67a8a2ccb0eef4d5740a6c37b58985b.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1637130579298,
-    "title": "Tình đầu dành hết cho em",
-    "type": "Drama,Slice of Life,Romance,School Life,Shoujo,Tragedy"
-  },
+  
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/thien-tu-truyen-ky-5-nhu-lai-than-chuong.html",
@@ -17601,19 +17259,7 @@
     "title": "Đến Quỷ Cũng Uống Trà - Ocha Nigosu",
     "type": "Romance,School Life,Comedy,Shounen"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/17-sai-kiss-to-dilemma.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/36/c8/36c8c08d9c4ba9b822e752cb01355179.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "17-sai Phần  kiss to dilemma chap 21 Phần 2  Phần End Phần",
-    "time": 1637138345177,
-    "title": "17-sai Phần  Kiss to Dilemma",
-    "type": "Drama,Romance,Shoujo,School Life"
-  },
+ 
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/get-backers.html",
@@ -17887,19 +17533,7 @@
     "title": "Trái Tim Thổn Thức",
     "type": "Drama,Romance,Shoujo,School Life"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/tenshi-no-uta.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_ee3a182601c6984acb4c0eb9bb85391a.jpg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1637142187773,
-    "title": "Tenshi no Uta",
-    "type": "Drama,Romance,Shoujo"
-  },
+
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/homunculus.html",
@@ -17939,19 +17573,7 @@
     "title": "Magic Kaito  Phần Bản đẹp Phần",
     "type": "Romance,Comedy,Adventure,Shounen"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/baby-love.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_dcf37d48c65c5213700e9282882a91bf.jpg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1637142647648,
-    "title": "Baby Love",
-    "type": "Drama,Romance,Shoujo,Comedy,Slice of Life"
-  },
+
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/tinh-yeu-dinh-menh.html",
@@ -17965,19 +17587,7 @@
     "title": "Tình Yêu Định Mệnh",
     "type": "Romance,Truyện scan,Comedy,Manhwa"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/crash.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_4747c9a2946364e3aca4a74a107b2c3f.jpg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1639452987981,
-    "title": "Crash!",
-    "type": "Drama,Fantasy,Romance,Comedy"
-  },
+  
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/than-tuong-mua-sam-[idol-shopping].html",
@@ -17990,19 +17600,6 @@
     "time": 1639453105763,
     "title": "Thần Tượng Mua Sắm  Phần Idol Shopping Phần",
     "type": "Manhwa,Romance,School Life,Shoujo,Action,Comedy"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/barajou-no-kiss.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/32/1a/321a73be92d0e0d6ea29b4ee39540e8c.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1639453222873,
-    "title": "Barajou no Kiss",
-    "type": "Mystery,Drama,Harem,School Life,Romance,Fantasy,Shoujo,Supernatural,Comedy"
   },
   {
     "des": "",
