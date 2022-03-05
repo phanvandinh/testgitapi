@@ -4037,19 +4037,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/song-tu-dao-lu-kieu-xem-mat.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/comics/12/fa/12fab7c2f40d87dabc402da7c3f0950b.jpg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1630671715439,
-    "title": "Song Tu Đạo Lữ Kiểu Xem Mặt",
-    "type": "Comedy,Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/dao-truong-dai-nhan-den-nha.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/cb/5e/cb5e3a2cf8dfc89a3fe97f9f4fb73354.jpeg",
@@ -6130,19 +6117,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/toan-mang-deu-la-fan-cp-cua-toi-voi-anh-de.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/comics/69/08/6908a2ab58fba9bcc1929b5ee872ab41.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": true,
-    "isRead": false,
-    "lastChapter": "Chapter 90",
-    "time": 1634739132644,
-    "title": "Toàn Mạng Đều Là Fan Cp Của Tôi Với Ảnh Đế",
-    "type": "Romance,Comedy,Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/phuong-hoang-thac-chuyen-sung-khi-the.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/comics/f0/b4/f0b4d04b515ae64a252126e76b447434.jpg",
@@ -6827,7 +6801,7 @@
     "isRead": false,
     "lastChapter": "Chapter 0",
     "time": 1630921077845,
-    "title": "Làm Sao Bây Giờ Phần  Ta Xuyên Không Thành Tiểu Quái",
+    "title": "Làm Sao Bây Giờ Ta Xuyên Không Thành Tiểu Quái",
     "type": "Action,Mystery,Manhua,Adventure"
   },
   {
@@ -7222,19 +7196,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/hoang-thuong-pe-de-hay-tranh-xa-ta-ra.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/cc/c7/ccc70c666f34bc75ed7b38330ba9d134.jpeg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": true,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1631198126005,
-    "title": "Hoàng Thượng Pê-Đê - Hãy Tránh Xa Ta Ra",
-    "type": "Comedy,Xuyên không,Manhua,Đam Mỹ"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/toi-muon-tro-thanh-tieu-thu-cong-tuoc-phe-vat.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/comics/68/63/6863872bb221c54dfa22eb2174bfacef.jpg",
@@ -7402,19 +7363,7 @@
     "title": "Sao Lại Là Yêu Phần",
     "type": "Cổ Đại,Romance,Manhua"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/luu-hoa-bat-cap-xuan.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/comics/8f/25/8f25cd3bc323f007290ce8dfb42ed6ad.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": true,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1631198916405,
-    "title": "Lưu Hoa Bất Cập Xuân",
-    "type": "Romance,Manhua"
-  },
+
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/toi-khong-con-yeu-anh-nua.html",
@@ -8327,19 +8276,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/hoa-bo-chay-voi-nhim-roi.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/comics/53/36/5336dd4157ba5ab795b6602d5f09164e.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": true,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1631616441652,
-    "title": "Hoa Bỏ Chạy Với Nhím Rồi",
-    "type": "Romance,Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/bao-sung-tieu-manh-phi.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/comics/b9/08/b908cc4d057aae33c2b65b9268b69ca9.jpg",
@@ -8977,19 +8913,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/than-gioi-truyen-thuyet-[dau-la-dai-luc-ngoai-truyen].html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_84e3208e6321ed6aa027f9c4bf0c3141.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423809,
-    "title": "Thần Giới Truyền Thuyết  Phần Đấu La Đại Lục Ngoại Truyện Phần",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/cong-tu-khong-nen-a.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/a4/17/a41782b507f7d97ee8d7e3892dd55bba.jpeg",
@@ -8999,19 +8922,6 @@
     "lastChapter": "Chapter 0",
     "time": 1632366423810,
     "title": "Công Tử! Không nên a!",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/mi-chi-ma-hap-chiec-hop-ma-thuat.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_06bb50c9631a2d4472924f136f8462d7.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423810,
-    "title": "Mị Chi Ma Hạp - Chiếc Hộp Ma Thuật",
     "type": "Manhua"
   },
   {
@@ -9038,45 +8948,6 @@
     "lastChapter": "Chapter 0",
     "time": 1632366423810,
     "title": "Thiên Hành Thiết Sự",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/manh-tam-quoc.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_4fd5461393bec5f96723cd508b43be55.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423810,
-    "title": "Manh Tam Quốc",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/em-chi-kho-so-vi-khong-the-cung-anh-di-het-cuoc-doi-nay.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_f79bae4a8a0edb0602295316df035539.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423811,
-    "title": "Em Chỉ Khổ Sở Vì Không Thể Cùng Anh Đi Hết Cuộc Đời Này",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/tien-ma-bien.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_9920e418e1b44ff52c945f5283f5810b.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423811,
-    "title": "Tiên Ma Biến",
     "type": "Manhua"
   },
   {
@@ -9692,19 +9563,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/fairy-heart.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_e05c627f9241ba1dc24091d51e74c3a4.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423831,
-    "title": "Fairy Heart",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/than-hoang.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_bce4e87d374ee4984891c20cc7016fbd.jpg",
@@ -9714,19 +9572,6 @@
     "lastChapter": "Chapter 0",
     "time": 1632366423831,
     "title": "Thần Hoàng",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/thieu-nu-toan-phong.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_5bf6cbe5de58f9bf2703e8098f8bd23a.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423831,
-    "title": "Thiếu Nữ Toàn Phong",
     "type": "Manhua"
   },
   {
@@ -9805,19 +9650,6 @@
     "lastChapter": "Chapter 0",
     "time": 1632366423832,
     "title": "Giang Hồ Tương Vong",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/linh-bao-chi.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_597bfda5acfce5530d089566c9fcd6d7.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423832,
-    "title": "Linh Bảo Chí",
     "type": "Manhua"
   },
   {
@@ -10017,19 +9849,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/thien-tai-y-sinh-bac-si-thien-tai.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_94b815875ff980665a326c12e4e917d7.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423846,
-    "title": "Thiên Tài Y Sinh (Bác sĩ thiên tài)",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/trieu-hoan-van-tue.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_1db683b3d4c54efc0d111cfcfabd8859.jpg",
@@ -10039,19 +9858,6 @@
     "lastChapter": "Chapter 0",
     "time": 1632366423846,
     "title": "Triệu Hoán Vạn Tuế",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/ke-sieu-pham.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_b647671ae712e28a18dae3e00b46b4ae.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423846,
-    "title": "Kẻ Siêu Phàm",
     "type": "Manhua"
   },
   {
@@ -10145,19 +9951,7 @@
     "title": "Chân Hoàn Truyện- Hoa Tự Liệt",
     "type": "Manhua"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/xin-ngai-day-dien-lao-gia.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_7d835bb73d895c63b5a0cbea6b2dda5a.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423847,
-    "title": "Xin Ngài Đấy Điền Lão Gia",
-    "type": "Manhua"
-  },
+
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/ilya.html",
@@ -10260,19 +10054,6 @@
     "lastChapter": "Chapter 0",
     "time": 1632366423849,
     "title": "Ba Đạo Tặc Và Tiểu Ngư",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/fisheye-placebo.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_d6b16954ea2d4712255befd8325b5a9c.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423849,
-    "title": "Fisheye Placebo",
     "type": "Manhua"
   },
   {
@@ -10394,19 +10175,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/truy-duoi.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_f72db2583d8f57c9730a5a60b8603dac.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423850,
-    "title": "Truy Đuổi",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/lien-van-trai.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_ca92c14bf4411d6987f19a7b57ecda71.jpg",
@@ -10416,19 +10184,6 @@
     "lastChapter": "Chapter 0",
     "time": 1632366423850,
     "title": "Liên Vận Trai",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/son-tuong.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_9914bd5b3e1d0d5c72f9d3c44d120a36.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423850,
-    "title": "Sơn Tường",
     "type": "Manhua"
   },
   {
@@ -10507,19 +10262,6 @@
     "lastChapter": "Chapter 0",
     "time": 1632366423851,
     "title": "Tinh Kỷ Nguyên",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/long-tu-gia-lam.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_ec927820fee70bebb7a3f0ec8ced2fdf.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423851,
-    "title": "Long Tử Giá Lâm",
     "type": "Manhua"
   },
   {
@@ -10784,19 +10526,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/tam-tap-nam-chu-giac.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_524a704c592f9db9f1eb1605036a6de9.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423865,
-    "title": "Tam Tập Nam Chủ Giác",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/long-nu-du-ky.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_b05ddff6194f89415bedce5be955cfd3.jpg",
@@ -10858,19 +10587,6 @@
     "lastChapter": "Chapter 0",
     "time": 1632366423867,
     "title": "Đấu Phá Thương Khung Tiền Truyện",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/no-luong-tinh-khong.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_b58bb48eb2258ed11a7e18e5e09916e4.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423867,
-    "title": "Nộ Lương Tinh Không",
     "type": "Manhua"
   },
   {
@@ -10979,19 +10695,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/truong-sinh-dien.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_342522c694f8d3a2d3dc9b91e9849f6d.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423868,
-    "title": "Trường Sinh Điện",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/bo-bo-sinh-lien.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_940b3a10d1f4e2a2a29bf57e843aee21.jpg",
@@ -11070,19 +10773,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/tuong-than-chung-ket-gia.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_df57cd475c03b0e0f344c3f9dba5b324.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423869,
-    "title": "Tương Thân Chung Kết Giả",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/vo-than.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_899ef62040173cc1d8ec67e766661ede.jpg",
@@ -11092,19 +10782,6 @@
     "lastChapter": "Chapter 0",
     "time": 1632366423869,
     "title": "Võ Thần",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/unnamed.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/d2/76/d276259a50cefa0041c6be6bc74e6c46.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423869,
-    "title": "unnamed",
     "type": "Manhua"
   },
   {
@@ -11239,19 +10916,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/heroes-evolved.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/0e/5b/0e5beccd652131917a877d8209e209d0.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423871,
-    "title": "Heroes Evolved",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/tinh-diem-thieu-nien.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/45/2a/452acbbeb1c94df7f16aa309d1d69689.jpg",
@@ -11304,19 +10968,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/hai-chu-meo-totem.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/55/44/55448c66e6e419840b01232e93021577.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423879,
-    "title": "Hai Chú Mèo ToTem",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/sakura-bolik.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/9c/bf/9cbf1e1aeede3fb261fd33c048d480b3.jpg",
@@ -11339,19 +10990,6 @@
     "lastChapter": "Chapter 0",
     "time": 1632366423879,
     "title": "Nothing Here",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/cong-chua-gia-dao.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/53/9b/539b57dd7427709bbb1b7e3b6e5524fc.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423880,
-    "title": "Công Chúa Giá Đáo",
     "type": "Manhua"
   },
   {
@@ -11404,19 +11042,6 @@
     "lastChapter": "Chapter 0",
     "time": 1632366423880,
     "title": "Đại Ma Vương Chuyển Tới Nhà Tôi",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/dieu-thu-dan-tien.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/19/a8/19a8ff9d87891807278cb8f60de8a9d2.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423881,
-    "title": "Diệu Thủ Đan Tiên",
     "type": "Manhua"
   },
   {
@@ -11486,32 +11111,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/dieyi-water.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_69da0a3d708ef1816b105c074f6da6d8.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423881,
-    "title": "Dieyi Water",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/ung-dung-anh-hung.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/0c/ca/0ccaf3fca800b0854f180fcc8ec59c05.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423882,
-    "title": "Ứng Dụng Anh Hùng",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/loc-dinh-ky.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_08fcd48ef56e89f78c2c4fc7a646ea7b.jpg",
@@ -11521,19 +11120,6 @@
     "lastChapter": "Chapter 0",
     "time": 1632366423883,
     "title": "Lộc Đỉnh Ký",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/the-gioi-cua-dong-tien.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/c2/3e/c23ea62c22825694d48d58f62b859466.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423883,
-    "title": "Thế Giới Của Đồng Tiền",
     "type": "Manhua"
   },
   {
@@ -11733,32 +11319,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/luu-ly-ha-ruc-ro.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/2b/74/2b74fbb117216085bda1f5f7c1eda881.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423888,
-    "title": "Lưu Ly Hạ Rực Rỡ",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/long-phuong-trinh-tuong.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/7d/47/7d478a29175fb10fcdba7f9d9cdeaa06.jpeg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423888,
-    "title": "Long Phượng Trình Tường",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/phan-nghich-than-lenh.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/54/4b/544bc254128893cf9aac90db9bb29fc9.jpg",
@@ -11863,19 +11423,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/gen-tho-san.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/0a/1a/0a1ad87495f31ece64ff6c2ba8bf3afe.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423890,
-    "title": "Gen Thợ Săn",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/doi-mat-tu-trai-tim.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/6c/35/6c35a0e7c8538d032eeed95b35b7505d.jpg",
@@ -11950,19 +11497,6 @@
     "lastChapter": "Chapter 0",
     "time": 1632366423894,
     "title": "Tiêu Dao Du",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/duoi-mong-vuot-meo.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/5f/80/5f805dca92b7246d3d52d69ee7ab51d0.jpeg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423894,
-    "title": "Dưới Móng Vuốt Mèo",
     "type": "Manhua"
   },
   {
@@ -12071,19 +11605,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/tham-quoc-vat-ngu.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_5bdd78929cc43eaf0c7dc3ac34aaa06b.jpg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423897,
-    "title": "Thâm Quốc Vật Ngữ",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/thanh-duong.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_02c5d253e908f5fa08abb078fb475fc6.jpg",
@@ -12145,19 +11666,6 @@
     "lastChapter": "Chapter 0",
     "time": 1632366423898,
     "title": "Tiêu Nhân tiền truyện",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/tinh-than-bien.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/ce/a4/cea4e1862c5ede8aa7416d6a5b923db3.jpeg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423898,
-    "title": "Tinh Thần Biến",
     "type": "Manhua"
   },
   {
@@ -12266,19 +11774,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/chu-nhan-la-anh-de.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/ef/0e/ef0e50fcbc92d3a5190c6eba8f16043d.webp",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423899,
-    "title": "Chủ Nhân Là Ảnh Đế",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/quang-lang-tan.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/15/23/1523887984.05_f23176767135dc8ca06884e830fc3ca6.jpg",
@@ -12353,19 +11848,6 @@
     "lastChapter": "Chapter 0",
     "time": 1632366423900,
     "title": "Ánh Sáng & Bóng Tối",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/vo-than-khong-gian.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/30/71/30712eb7d2b46aaec727aa305bd5b821.jpeg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423900,
-    "title": "Võ Thần Không Gian",
     "type": "Manhua"
   },
   {
@@ -12652,19 +12134,6 @@
     "lastChapter": "Chapter 0",
     "time": 1632366423906,
     "title": "Khánh Hi Kỷ Sự",
-    "type": "Manhua"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/ba-hoang.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/03/6d/036df62f66dd69d01dfb9735af95ffb1.webp",
-    "isMostRead": false,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1632366423907,
-    "title": "Bá Hoàng",
     "type": "Manhua"
   },
   {
@@ -14463,19 +13932,6 @@
   },
   {
     "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/doc-phi-ngoc-nghech-khong-de-choc.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/6d/d2/6dd23798fd9d22cf7a2b45d637c665c7.jpeg",
-    "isMostRead": false,
-    "isNewAnimeUpdate": true,
-    "isRead": false,
-    "lastChapter": "Chapter 0",
-    "time": 1635764023182,
-    "title": "Độc Phi Ngốc Nghếch Không Dễ Chọc",
-    "type": "Cổ Đại,Xuyên không,Manhua"
-  },
-  {
-    "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/tough-miyazawa-kiichi.html",
     "imageSrc": "",
     "img": "https://images8.intercomics.club/vnstory/bf/d2/bfd20b88b12473408df53598f8be8922.jpeg",
@@ -14930,19 +14386,6 @@
     "time": 1636023534593,
     "title": "Món quà từ Chúa",
     "type": "Action,Fantasy,Supernatural,Adventure,Manhwa"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/trong-sinh-de-ngu-voi-anh-de.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/1c/1b/1c1b51122772952126b74f8953c2fd24.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1636023639804,
-    "title": "Trọng Sinh Để Ngủ Với Ảnh Đế",
-    "type": "Romance,Manhua,Supernatural"
   },
   {
     "des": "",
@@ -15519,19 +14962,7 @@
     "title": "Thiên Hạ Đệ Nhất Sủng Phi",
     "type": "Cổ Đại,Romance,Shoujo,Manhua,Tạp chí truyện tranh"
   },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/nguoi-trong-giang-ho-raw.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/f4/59/f459ab7259451279053b2f0b908db8f6.jpg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1636948650774,
-    "title": "Người Trong Giang Hồ RAW",
-    "type": "Action,Manhua,Martial Arts,Adventure"
-  },
+  
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/conan.html",
@@ -15597,19 +15028,6 @@
     "time": 1636966123917,
     "title": "Shinrei Tantei Yakumo",
     "type": "Mystery,Horror,Supernatural,Adventure,Trinh Thám,Action"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/my-nu-dac-cong-001.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/rs/z_/rsz_0a8390a80d4274e610c21c73cfa0ed41.jpg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "Chapter 22: chân võ công Phần  giả thần thông",
-    "time": 1636966180736,
-    "title": "Mỹ nữ đặc công 001",
-    "type": "Action,Manhua,Trinh Thám"
   },
   {
     "des": "",
@@ -16252,19 +15670,6 @@
     "type": "Fantasy,Comedy"
   },
   
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/bay-ngay-thuc-cot-hon-nhan.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/bd/b3/bdb37edb827b0cf79cf9f6f8bd14d334.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1637045086029,
-    "title": "Bảy Ngày Thực Cốt Hôn Nhân",
-    "type": "Manhua"
-  },
   {
     "des": "",
     "href": "https://www.toptruyenhay.net/chi-tiet-truyen/bong-hoa-noi-bi-mat.html",
@@ -16957,19 +16362,6 @@
     "time": 1637120543450,
     "title": "She's Scary",
     "type": "Drama,Slice of Life,Manhwa,Romance,School Life,Shoujo,Comedy"
-  },
-  {
-    "des": "",
-    "href": "https://www.toptruyenhay.net/chi-tiet-truyen/lop-truong-dai-nhan.html",
-    "imageSrc": "",
-    "img": "https://images8.intercomics.club/vnstory/6b/ca/6bcab69d147aaa2b704d8edabab41d1b.jpeg",
-    "isMostRead": true,
-    "isNewAnimeUpdate": false,
-    "isRead": false,
-    "lastChapter": "",
-    "time": 1637120633718,
-    "title": "Lớp Trưởng Đại Nhân",
-    "type": "Slice of Life,School Life,Manhua"
   },
   {
     "des": "",
